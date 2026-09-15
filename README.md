@@ -1,6 +1,6 @@
 # Greenpower Racing — Team Portfolio
 
-Documentation from the DAA "Leopards" Greenpower team's 2025 season — an
+Documentation from the DAA "Leopards" Greenpower team's 2025 season, an
 electric go-kart built and raced as part of the Greenpower Education Trust
 competition. This isn't a software project; it's a written record of the
 engineering, design, and sustainability work behind the kart.
